@@ -178,7 +178,7 @@
 }
 @media screen and (max-width: 480px) {
   .hero_container-left {
-    font: 1.5rem;
+    line-height: 1.5;
   }
 }
 .hero_container-left h1 {
